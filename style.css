@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color:rgb(16, 141, 150) ;
+}
+
+header{
+    background-color: cornflowerblue;
+    padding:25px ;
+    border-radius: 10px;
+}
+
+
+
+.goods{
+    background-color: cornflowerblue;
+    color: rgb(0, 238, 255);
+    border-radius: 10px;
+    border: 1px solid;
+}
+
+
+
+header a{
+    
+    text-decoration: none;
+    border: 1px solid greenyellow;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: mediumturquoise;
+}
+
+h1{
+    border-radius: 10px;
+    background-color:orangered ;
+    text-align:center ;
+}
+
+nav{
+    text-align: center;
+    margin: 10px;
+}
+
+nav a{
+    color: greenyellow;
+    margin: 25px;
+    background-color:blue ;
+     border-radius: 10px;
+     padding: 5px;
+}
+
+p img{
+    border: 5px solid rgb(216, 255, 245);
+    border-radius: 10px;
+    padding: 0px;
+}
+
+footer{
+    background-color:#2d546b ;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+footer p{
+    background-color:#62b8eb ;
+    border-radius:15px ;
+}
